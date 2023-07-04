@@ -1,7 +1,8 @@
 def hello():
-  print("hi")
+    print("hi")
 
-# invalid indentation - this would fail the indenter
+
+# fix indentation
 def bye():
     print("bye")
 
